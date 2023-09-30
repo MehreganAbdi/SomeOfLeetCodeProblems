@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\ConsoleApp4\ConsoleApp4\bin\Debug\net7.0\DelegatesFuncAction.exe
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\ConsoleApp4\ConsoleApp4\bin\Debug\net7.0\DelegatesFuncAction.deps.json
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\ConsoleApp4\ConsoleApp4\bin\Debug\net7.0\DelegatesFuncAction.runtimeconfig.json
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\ConsoleApp4\ConsoleApp4\bin\Debug\net7.0\DelegatesFuncAction.dll
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\ConsoleApp4\ConsoleApp4\bin\Debug\net7.0\DelegatesFuncAction.pdb
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\DelegatesFuncAction.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\DelegatesFuncAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\DelegatesFuncAction.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\DelegatesFuncAction.AssemblyInfo.cs
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\DelegatesFuncAction.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\DelegatesFuncAction.dll
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\refint\DelegatesFuncAction.dll
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\DelegatesFuncAction.pdb
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\DelegatesFuncAction.genruntimeconfig.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\ConsoleApp4\ConsoleApp4\obj\Debug\net7.0\ref\DelegatesFuncAction.dll

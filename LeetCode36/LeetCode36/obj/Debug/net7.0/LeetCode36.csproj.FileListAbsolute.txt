@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode36\LeetCode36\bin\Debug\net7.0\LeetCode36.exe
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode36\LeetCode36\bin\Debug\net7.0\LeetCode36.deps.json
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode36\LeetCode36\bin\Debug\net7.0\LeetCode36.runtimeconfig.json
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode36\LeetCode36\bin\Debug\net7.0\LeetCode36.dll
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode36\LeetCode36\bin\Debug\net7.0\LeetCode36.pdb
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode36\LeetCode36\obj\Debug\net7.0\LeetCode36.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode36\LeetCode36\obj\Debug\net7.0\LeetCode36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode36\LeetCode36\obj\Debug\net7.0\LeetCode36.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode36\LeetCode36\obj\Debug\net7.0\LeetCode36.AssemblyInfo.cs
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode36\LeetCode36\obj\Debug\net7.0\LeetCode36.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode36\LeetCode36\obj\Debug\net7.0\LeetCode36.dll
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode36\LeetCode36\obj\Debug\net7.0\refint\LeetCode36.dll
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode36\LeetCode36\obj\Debug\net7.0\LeetCode36.pdb
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode36\LeetCode36\obj\Debug\net7.0\LeetCode36.genruntimeconfig.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode36\LeetCode36\obj\Debug\net7.0\ref\LeetCode36.dll

@@ -1,0 +1,15 @@
+G:\Projects\Mentor\Exercises\LeetCode128\LeetCode128\bin\Debug\net7.0\LeetCode128.exe
+G:\Projects\Mentor\Exercises\LeetCode128\LeetCode128\bin\Debug\net7.0\LeetCode128.deps.json
+G:\Projects\Mentor\Exercises\LeetCode128\LeetCode128\bin\Debug\net7.0\LeetCode128.runtimeconfig.json
+G:\Projects\Mentor\Exercises\LeetCode128\LeetCode128\bin\Debug\net7.0\LeetCode128.dll
+G:\Projects\Mentor\Exercises\LeetCode128\LeetCode128\bin\Debug\net7.0\LeetCode128.pdb
+G:\Projects\Mentor\Exercises\LeetCode128\LeetCode128\obj\Debug\net7.0\LeetCode128.csproj.AssemblyReference.cache
+G:\Projects\Mentor\Exercises\LeetCode128\LeetCode128\obj\Debug\net7.0\LeetCode128.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Mentor\Exercises\LeetCode128\LeetCode128\obj\Debug\net7.0\LeetCode128.AssemblyInfoInputs.cache
+G:\Projects\Mentor\Exercises\LeetCode128\LeetCode128\obj\Debug\net7.0\LeetCode128.AssemblyInfo.cs
+G:\Projects\Mentor\Exercises\LeetCode128\LeetCode128\obj\Debug\net7.0\LeetCode128.csproj.CoreCompileInputs.cache
+G:\Projects\Mentor\Exercises\LeetCode128\LeetCode128\obj\Debug\net7.0\LeetCode128.dll
+G:\Projects\Mentor\Exercises\LeetCode128\LeetCode128\obj\Debug\net7.0\refint\LeetCode128.dll
+G:\Projects\Mentor\Exercises\LeetCode128\LeetCode128\obj\Debug\net7.0\LeetCode128.pdb
+G:\Projects\Mentor\Exercises\LeetCode128\LeetCode128\obj\Debug\net7.0\LeetCode128.genruntimeconfig.cache
+G:\Projects\Mentor\Exercises\LeetCode128\LeetCode128\obj\Debug\net7.0\ref\LeetCode128.dll

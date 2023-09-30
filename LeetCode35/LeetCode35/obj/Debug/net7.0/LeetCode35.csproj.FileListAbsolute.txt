@@ -1,0 +1,14 @@
+G:\Projects\Mentor\Exercises\LeetCode35\LeetCode35\bin\Debug\net7.0\LeetCode35.exe
+G:\Projects\Mentor\Exercises\LeetCode35\LeetCode35\bin\Debug\net7.0\LeetCode35.deps.json
+G:\Projects\Mentor\Exercises\LeetCode35\LeetCode35\bin\Debug\net7.0\LeetCode35.runtimeconfig.json
+G:\Projects\Mentor\Exercises\LeetCode35\LeetCode35\bin\Debug\net7.0\LeetCode35.dll
+G:\Projects\Mentor\Exercises\LeetCode35\LeetCode35\bin\Debug\net7.0\LeetCode35.pdb
+G:\Projects\Mentor\Exercises\LeetCode35\LeetCode35\obj\Debug\net7.0\LeetCode35.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Mentor\Exercises\LeetCode35\LeetCode35\obj\Debug\net7.0\LeetCode35.AssemblyInfoInputs.cache
+G:\Projects\Mentor\Exercises\LeetCode35\LeetCode35\obj\Debug\net7.0\LeetCode35.AssemblyInfo.cs
+G:\Projects\Mentor\Exercises\LeetCode35\LeetCode35\obj\Debug\net7.0\LeetCode35.csproj.CoreCompileInputs.cache
+G:\Projects\Mentor\Exercises\LeetCode35\LeetCode35\obj\Debug\net7.0\LeetCode35.dll
+G:\Projects\Mentor\Exercises\LeetCode35\LeetCode35\obj\Debug\net7.0\refint\LeetCode35.dll
+G:\Projects\Mentor\Exercises\LeetCode35\LeetCode35\obj\Debug\net7.0\LeetCode35.pdb
+G:\Projects\Mentor\Exercises\LeetCode35\LeetCode35\obj\Debug\net7.0\LeetCode35.genruntimeconfig.cache
+G:\Projects\Mentor\Exercises\LeetCode35\LeetCode35\obj\Debug\net7.0\ref\LeetCode35.dll

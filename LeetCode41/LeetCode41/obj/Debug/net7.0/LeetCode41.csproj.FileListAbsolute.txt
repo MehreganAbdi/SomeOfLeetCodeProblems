@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode41\LeetCode41\obj\Debug\net7.0\LeetCode41.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode41\LeetCode41\obj\Debug\net7.0\LeetCode41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode41\LeetCode41\obj\Debug\net7.0\LeetCode41.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode41\LeetCode41\obj\Debug\net7.0\LeetCode41.AssemblyInfo.cs
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode41\LeetCode41\obj\Debug\net7.0\LeetCode41.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode41\LeetCode41\bin\Debug\net7.0\LeetCode41.exe
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode41\LeetCode41\bin\Debug\net7.0\LeetCode41.deps.json
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode41\LeetCode41\bin\Debug\net7.0\LeetCode41.runtimeconfig.json
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode41\LeetCode41\bin\Debug\net7.0\LeetCode41.dll
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode41\LeetCode41\bin\Debug\net7.0\LeetCode41.pdb
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode41\LeetCode41\obj\Debug\net7.0\LeetCode41.dll
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode41\LeetCode41\obj\Debug\net7.0\refint\LeetCode41.dll
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode41\LeetCode41\obj\Debug\net7.0\LeetCode41.pdb
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode41\LeetCode41\obj\Debug\net7.0\LeetCode41.genruntimeconfig.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode41\LeetCode41\obj\Debug\net7.0\ref\LeetCode41.dll

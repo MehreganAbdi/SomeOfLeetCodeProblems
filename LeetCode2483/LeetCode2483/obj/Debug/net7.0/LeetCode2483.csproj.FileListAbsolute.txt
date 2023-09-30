@@ -1,0 +1,14 @@
+G:\Projects\Mentor\Exercises\LeetCode2483\LeetCode2483\bin\Debug\net7.0\LeetCode2483.exe
+G:\Projects\Mentor\Exercises\LeetCode2483\LeetCode2483\bin\Debug\net7.0\LeetCode2483.deps.json
+G:\Projects\Mentor\Exercises\LeetCode2483\LeetCode2483\bin\Debug\net7.0\LeetCode2483.runtimeconfig.json
+G:\Projects\Mentor\Exercises\LeetCode2483\LeetCode2483\bin\Debug\net7.0\LeetCode2483.dll
+G:\Projects\Mentor\Exercises\LeetCode2483\LeetCode2483\bin\Debug\net7.0\LeetCode2483.pdb
+G:\Projects\Mentor\Exercises\LeetCode2483\LeetCode2483\obj\Debug\net7.0\LeetCode2483.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Mentor\Exercises\LeetCode2483\LeetCode2483\obj\Debug\net7.0\LeetCode2483.AssemblyInfoInputs.cache
+G:\Projects\Mentor\Exercises\LeetCode2483\LeetCode2483\obj\Debug\net7.0\LeetCode2483.AssemblyInfo.cs
+G:\Projects\Mentor\Exercises\LeetCode2483\LeetCode2483\obj\Debug\net7.0\LeetCode2483.csproj.CoreCompileInputs.cache
+G:\Projects\Mentor\Exercises\LeetCode2483\LeetCode2483\obj\Debug\net7.0\LeetCode2483.dll
+G:\Projects\Mentor\Exercises\LeetCode2483\LeetCode2483\obj\Debug\net7.0\refint\LeetCode2483.dll
+G:\Projects\Mentor\Exercises\LeetCode2483\LeetCode2483\obj\Debug\net7.0\LeetCode2483.pdb
+G:\Projects\Mentor\Exercises\LeetCode2483\LeetCode2483\obj\Debug\net7.0\LeetCode2483.genruntimeconfig.cache
+G:\Projects\Mentor\Exercises\LeetCode2483\LeetCode2483\obj\Debug\net7.0\ref\LeetCode2483.dll

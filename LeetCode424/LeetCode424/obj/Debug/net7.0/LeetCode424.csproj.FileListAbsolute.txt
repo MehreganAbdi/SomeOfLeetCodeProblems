@@ -1,0 +1,14 @@
+G:\Projects\Mentor\Exercises\LeetCode424\LeetCode424\bin\Debug\net7.0\LeetCode424.exe
+G:\Projects\Mentor\Exercises\LeetCode424\LeetCode424\bin\Debug\net7.0\LeetCode424.deps.json
+G:\Projects\Mentor\Exercises\LeetCode424\LeetCode424\bin\Debug\net7.0\LeetCode424.runtimeconfig.json
+G:\Projects\Mentor\Exercises\LeetCode424\LeetCode424\bin\Debug\net7.0\LeetCode424.dll
+G:\Projects\Mentor\Exercises\LeetCode424\LeetCode424\bin\Debug\net7.0\LeetCode424.pdb
+G:\Projects\Mentor\Exercises\LeetCode424\LeetCode424\obj\Debug\net7.0\LeetCode424.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Mentor\Exercises\LeetCode424\LeetCode424\obj\Debug\net7.0\LeetCode424.AssemblyInfoInputs.cache
+G:\Projects\Mentor\Exercises\LeetCode424\LeetCode424\obj\Debug\net7.0\LeetCode424.AssemblyInfo.cs
+G:\Projects\Mentor\Exercises\LeetCode424\LeetCode424\obj\Debug\net7.0\LeetCode424.csproj.CoreCompileInputs.cache
+G:\Projects\Mentor\Exercises\LeetCode424\LeetCode424\obj\Debug\net7.0\LeetCode424.dll
+G:\Projects\Mentor\Exercises\LeetCode424\LeetCode424\obj\Debug\net7.0\refint\LeetCode424.dll
+G:\Projects\Mentor\Exercises\LeetCode424\LeetCode424\obj\Debug\net7.0\LeetCode424.pdb
+G:\Projects\Mentor\Exercises\LeetCode424\LeetCode424\obj\Debug\net7.0\LeetCode424.genruntimeconfig.cache
+G:\Projects\Mentor\Exercises\LeetCode424\LeetCode424\obj\Debug\net7.0\ref\LeetCode424.dll

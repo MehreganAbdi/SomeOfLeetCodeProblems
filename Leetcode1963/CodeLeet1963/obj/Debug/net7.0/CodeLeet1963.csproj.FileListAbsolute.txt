@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\CodeLeet1963\CodeLeet1963\bin\Debug\net7.0\CodeLeet1963.exe
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\CodeLeet1963\CodeLeet1963\bin\Debug\net7.0\CodeLeet1963.deps.json
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\CodeLeet1963\CodeLeet1963\bin\Debug\net7.0\CodeLeet1963.runtimeconfig.json
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\CodeLeet1963\CodeLeet1963\bin\Debug\net7.0\CodeLeet1963.dll
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\CodeLeet1963\CodeLeet1963\bin\Debug\net7.0\CodeLeet1963.pdb
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\CodeLeet1963\CodeLeet1963\obj\Debug\net7.0\CodeLeet1963.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\CodeLeet1963\CodeLeet1963\obj\Debug\net7.0\CodeLeet1963.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\CodeLeet1963\CodeLeet1963\obj\Debug\net7.0\CodeLeet1963.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\CodeLeet1963\CodeLeet1963\obj\Debug\net7.0\CodeLeet1963.AssemblyInfo.cs
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\CodeLeet1963\CodeLeet1963\obj\Debug\net7.0\CodeLeet1963.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\CodeLeet1963\CodeLeet1963\obj\Debug\net7.0\CodeLeet1963.dll
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\CodeLeet1963\CodeLeet1963\obj\Debug\net7.0\refint\CodeLeet1963.dll
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\CodeLeet1963\CodeLeet1963\obj\Debug\net7.0\CodeLeet1963.pdb
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\CodeLeet1963\CodeLeet1963\obj\Debug\net7.0\CodeLeet1963.genruntimeconfig.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\CodeLeet1963\CodeLeet1963\obj\Debug\net7.0\ref\CodeLeet1963.dll

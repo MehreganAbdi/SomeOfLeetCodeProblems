@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode168\LeetCode168\bin\Debug\net7.0\LeetCode168.exe
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode168\LeetCode168\bin\Debug\net7.0\LeetCode168.deps.json
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode168\LeetCode168\bin\Debug\net7.0\LeetCode168.runtimeconfig.json
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode168\LeetCode168\bin\Debug\net7.0\LeetCode168.dll
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode168\LeetCode168\bin\Debug\net7.0\LeetCode168.pdb
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode168\LeetCode168\obj\Debug\net7.0\LeetCode168.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode168\LeetCode168\obj\Debug\net7.0\LeetCode168.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode168\LeetCode168\obj\Debug\net7.0\LeetCode168.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode168\LeetCode168\obj\Debug\net7.0\LeetCode168.AssemblyInfo.cs
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode168\LeetCode168\obj\Debug\net7.0\LeetCode168.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode168\LeetCode168\obj\Debug\net7.0\LeetCode168.dll
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode168\LeetCode168\obj\Debug\net7.0\refint\LeetCode168.dll
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode168\LeetCode168\obj\Debug\net7.0\LeetCode168.pdb
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode168\LeetCode168\obj\Debug\net7.0\LeetCode168.genruntimeconfig.cache
+C:\Users\HP\Desktop\Projects\Mentor\Exercises\LeetCode168\LeetCode168\obj\Debug\net7.0\ref\LeetCode168.dll

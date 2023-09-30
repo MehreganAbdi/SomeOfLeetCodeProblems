@@ -1,0 +1,14 @@
+G:\Offline\Projects\Mentor\Exercises\ConsoleApp5\ConsoleApp5\bin\Debug\net7.0\ConsoleApp5.exe
+G:\Offline\Projects\Mentor\Exercises\ConsoleApp5\ConsoleApp5\bin\Debug\net7.0\ConsoleApp5.deps.json
+G:\Offline\Projects\Mentor\Exercises\ConsoleApp5\ConsoleApp5\bin\Debug\net7.0\ConsoleApp5.runtimeconfig.json
+G:\Offline\Projects\Mentor\Exercises\ConsoleApp5\ConsoleApp5\bin\Debug\net7.0\ConsoleApp5.dll
+G:\Offline\Projects\Mentor\Exercises\ConsoleApp5\ConsoleApp5\bin\Debug\net7.0\ConsoleApp5.pdb
+G:\Offline\Projects\Mentor\Exercises\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+G:\Offline\Projects\Mentor\Exercises\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.AssemblyInfoInputs.cache
+G:\Offline\Projects\Mentor\Exercises\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.AssemblyInfo.cs
+G:\Offline\Projects\Mentor\Exercises\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+G:\Offline\Projects\Mentor\Exercises\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.dll
+G:\Offline\Projects\Mentor\Exercises\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\refint\ConsoleApp5.dll
+G:\Offline\Projects\Mentor\Exercises\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.pdb
+G:\Offline\Projects\Mentor\Exercises\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ConsoleApp5.genruntimeconfig.cache
+G:\Offline\Projects\Mentor\Exercises\ConsoleApp5\ConsoleApp5\obj\Debug\net7.0\ref\ConsoleApp5.dll
